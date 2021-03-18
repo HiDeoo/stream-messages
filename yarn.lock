@@ -3378,7 +3378,7 @@ escodegen@^1.11.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-preact@^1.1.3:
+eslint-config-preact@1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/eslint-config-preact/-/eslint-config-preact-1.1.3.tgz#b12fa13a57923f6c5658d300ed8d8be3aa467b14"
   integrity sha512-AU90nXiNv3P1kA10eBJkv8TB6dd81OsT4UyM5fG6Ie8bxQGinE/6XR7LMxylvk3fusK5xAxDET4bIHPT6S5Hvw==
@@ -3465,7 +3465,7 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-2.0.0.tgz#21fdc8fbcd9c795cc0321f0563702095751511a8"
   integrity sha512-QudtT6av5WXels9WjIM7qz1XD1cWGvX4gGXvp/zBn9nXG02D0utdU3Em2m/QjTnrsk6bBjmCygl3rmj118msQQ==
 
-eslint@^7.17.0:
+eslint@7.22.0:
   version "7.22.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.22.0.tgz#07ecc61052fec63661a2cab6bd507127c07adc6f"
   integrity sha512-3VawOtjSJUQiiqac8MQc+w457iGLfuNGLFn8JmF051tTKbh5/x/0vlcEj8OgDCaw7Ysa2Jn8paGshV7x2abKXg==
@@ -6706,7 +6706,7 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.27, postcss@^7.0.3
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-preact-cli@^3.0.0:
+preact-cli@3.0.5:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/preact-cli/-/preact-cli-3.0.5.tgz#e7bd78d3fe58cd375b61bf0348621e19dfa16705"
   integrity sha512-Oc9HOjwX/3Zk1eXkmP7TMmtqbaROl7F0RWZ2Ni5Q/grmx3yBLJmarkUcOSKabkI/Usw2dU3RVju32Q3Pvy5qIw==
@@ -6788,14 +6788,14 @@ preact-cli@^3.0.0:
     workbox-strategies "^5.1.3"
     workbox-webpack-plugin "^5.1.3"
 
-preact-render-to-string@^5.1.2:
+preact-render-to-string@5.1.16:
   version "5.1.16"
   resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-5.1.16.tgz#379db30e51916d45a67c00163ef812ad376aa721"
   integrity sha512-HvO3W29Sziz9r5FZGwl2e34XJKzyRLvjhouv3cpkCGszNPdnvkO8p4B6CBpe0MT/tzR+QVbmsAKLrMK222UXew==
   dependencies:
     pretty-format "^3.8.0"
 
-preact@^10.1.0:
+preact@10.5.13:
   version "10.5.13"
   resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.13.tgz#85f6c9197ecd736ce8e3bec044d08fd1330fa019"
   integrity sha512-q/vlKIGNwzTLu+jCcvywgGrt+H/1P/oIRSD6mV4ln3hmlC+Aa34C7yfPI4+5bzW8pONyVXYS7SvXosy2dKKtWQ==
@@ -7685,7 +7685,7 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-sirv-cli@^1.0.3:
+sirv-cli@1.0.11:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.11.tgz#a3f4bed53b7c09306ed7f16ebea6e1e7be676c74"
   integrity sha512-L8NILoRSBd38VcfFcERYCaVCnWPBLo9G6u/a37UJ8Ysv4DfjizMbFBcM+SswNnndJienhR6qy8KFuAEaeL4g8Q==
