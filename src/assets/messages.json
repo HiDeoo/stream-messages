@@ -1,0 +1,10 @@
+[
+  {
+    "title": "New here?",
+    "message": "Type !new"
+  },
+  {
+    "title": "Old here?",
+    "message": "Type !old"
+  }
+]

@@ -1,9 +1,13 @@
 import './style'
 
+import { MotionConfig, AnimationFeature } from 'framer-motion'
+
+import Messages from './Messages'
+
 export default function App() {
   return (
-    <div>
-      <h1>Hello, World!</h1>
-    </div>
+    <MotionConfig features={[AnimationFeature]}>
+      <Messages />
+    </MotionConfig>
   )
 }

@@ -1,0 +1,40 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  overflow: hidden;
+}
+
+body,
+h1,
+p {
+  margin: 0;
+}
+
+.messageWrapper {
+  bottom: 0;
+  color: white;
+  display: flex;
+  font-size: 30px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.message {
+  background-color: rgba(20, 21, 42, 0.6);
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 15px;
+  padding: 10px 15px;
+}
+
+h1 {
+  color: #d8f1fd;
+  font-size: 1.8rem;
+}
+
+p {
+  color: #ff744b;
+  font-size: 1.6rem;
+}
