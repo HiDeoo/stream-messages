@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "build": "preact build --no-sw",
-    "serve": "sirv build --port 8080 --cors --single",
-    "dev": "preact watch",
+    "serve": "sirv build --port 8282 --cors --single --quiet",
+    "dev": "preact watch --port 8282",
     "lint": "eslint src"
   },
   "eslintConfig": {
